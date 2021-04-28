@@ -1,0 +1,2 @@
+module Aufgabe2 {
+}
